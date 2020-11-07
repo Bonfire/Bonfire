@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **automation for various services**, like **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)** and **[tf2-autobot](https://github.com/Bonfire/tf2autobot)**
+- 🔭 I’m currently working on **automation for various services**, like **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, **[SlotBot](https://github.com/Bonfire/SlotBot)**, and **[Scraffle](https://github.com/Bonfire/Scraffle)**
 - 🌱 I’m currently learning **JavaScript** and about **event-driven programming**
 - 💬 Ask me about **Selenium**, **Discord bots**, and **general automation**
 - 📫 How to reach me: **Email**
