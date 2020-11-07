@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **automation for various services**, like **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)** and **[tf2-autobot](https://github.com/Bonfire/tf2autobot)**
-- 🌱 I’m currently learning **JavaScript** and about **build automation tools**
+- 🌱 I’m currently learning **JavaScript** and about **event-driven programming**
 - 💬 Ask me about **Selenium**, **Discord bots**, and **general automation**
 - 📫 How to reach me: **Email**
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true&hide=contribs" alt="GitHub stats" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfire&layout=compact&langs_count=6" alt="Most used languages" />
 </p>
