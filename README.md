@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfire&layout=compact&langs_count=6" alt="Most used languages" />
 </p>
+
