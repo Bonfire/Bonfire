@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/idinium96/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[SlotBot](https://github.com/Bonfire/SlotBot)**
-- 🌱 I’m currently learning **JavaScript** and about **event-driven programming**
-- 💬 Ask me about **Selenium**, **Discord bots**, and **general automation**
+- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[SlotBot](https://github.com/Bonfire/SlotBot)**
+- 🌱 I’m currently learning **JavaScript**, **TypeScript**, and **NodeJS**
+- 💬 Ask me about **Selenium**, **Bots**, and **General Automation**
 - 📫 How to reach me: **Email** (baranb@knights.ucf.edu)
 
 <p>
