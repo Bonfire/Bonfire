@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[SlotBot](https://github.com/Bonfire/SlotBot)**
-- 🌱 I’m currently learning **JavaScript**, **TypeScript**, and **NodeJS**
+- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**
+- 🌱 I’m currently learning **JavaScript/TypeScript**, **Nuxt.js**, and **Nest.js**
 - 💬 Ask me about **Selenium**, **Bots**, and **General Automation**
 - 📫 How to reach me: **Email** (baranb@knights.ucf.edu)
 
