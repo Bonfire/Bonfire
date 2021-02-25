@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**
-- 🌱 I’m currently learning **JavaScript/TypeScript**, **Nuxt.js**, and **TailwindCSS**
+- 🌱 I’m currently learning how to work with **JavaScript/TypeScript**, **Nuxt.js**, and **TailwindCSS**
 - 💬 Ask me about **Selenium**, **Bots**, and **General Automation**
 - 📫 How to reach me: **Email** (baranb@knights.ucf.edu)
 
