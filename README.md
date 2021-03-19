@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[LegionaryJS](https://github.com/Bonfire/LegionaryJS)**, and **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**
-- 🌱 I’m currently learning how to work with **JavaScript/TypeScript**, **Nuxt.js**, and **TailwindCSS**
-- 💬 Ask me about **Selenium**, **Bots**, and **General Automation**
+- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, and **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**
+- 🌱 I’m currently learning how to work with **JavaScript/TypeScript**, **Next.js**, and **Nest.js**
+- 💬 Ask me about **Software Automation**, **Bots**, and **just about anything else!**
 - 📫 How to reach me: **Email** (baranb@knights.ucf.edu)
+
+- Have any of my projects helped you? Feel free to support me through <a href="https://www.buymeacoffee.com/bonf" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
