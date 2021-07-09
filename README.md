@@ -11,14 +11,14 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about **ASP.NET Core**, **the MVC paradigm**, and **fullstack development**
+- 🌱 I’m currently learning about **ASP.NET Core**, **the MVC paradigm**, and **full stack development**
 - ⚡ Current and past projects:
   - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
   - Community Manager for **[Arcade.tf](https://arcade.tf/)**
   - Creator and maintainer of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
   - Author of various **[OSRS Botting Scripts](https://github.com/Bonfire/RSPeer-Scripts)**
 - 🧠 Interests include:
-  - Fullstack development
+  - Full stack development
   - General automation
   - Web application security
 - 📫 Reach me on **Discord** at **Bon#7654**
