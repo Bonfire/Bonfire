@@ -15,11 +15,13 @@
 - ⚡ Current and past projects:
   - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
   - Community Manager for **[Arcade.tf](https://arcade.tf/)**
-  - Creator and maintainer of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
-  - Author of various OSRS botting scripts for **[RSPeer](https://github.com/Bonfire/RSPeer-Scripts)** and **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)**.
+  - Creator of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
+  - Author of various OSRS botting scripts for **[RSPeer](https://github.com/Bonfire/RSPeer-Scripts)** and **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)**
+  - OpenOSRS' **[Sorceress' Garden](https://github.com/xKylee/plugins-source/tree/master/sorceressgarden)** plugin
+  - Various personalized Discord bots
 - 🧠 Interests include:
   - Full stack development
-  - General automation
+  - Automation for websites and games
   - Web application security
 - 📫 Reach me on **Discord** at **Bon#7654**
 
