@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hey! Welcome to my profile 👋
 
 <!--
-**Bonfire/Bonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,12 +11,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **automation for various services**, like **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**, **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, and **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**
-- 🌱 I’m currently learning how to work with **JavaScript/TypeScript**, **Next.js**, and **Nest.js**
-- 💬 Ask me about **Software Automation**, **Bots**, and **just about anything else!**
-- 📫 How to reach me: **Email** (baranb@knights.ucf.edu)
-
-- Have any of my projects helped you? Feel free to support me through <a href="https://www.buymeacoffee.com/bonf" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+- 🌱 I’m currently learning about **ASP.NET Core**, **the MVC paradigm**, and **fullstack development**
+- ⚡ Current and past projects:
+  - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
+  - Community Manager for **[Arcade.tf](https://arcade.tf/)**
+  - Creator and maintainer of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
+  - Author of various **[OSRS Botting Scripts](https://github.com/Bonfire/RSPeer-Scripts)**
+- 🧠 Interests include:
+  - Fullstack development
+  - General automation
+  - Web application security
+- 📫 Reach me on **Discord** at **Bon#7654**
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
