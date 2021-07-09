@@ -18,7 +18,7 @@
   - Creator of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
   - Author of various OSRS botting scripts for **[RSPeer](https://github.com/Bonfire/RSPeer-Scripts)** and **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)**
   - OpenOSRS' **[Sorceress' Garden](https://github.com/xKylee/plugins-source/tree/master/sorceressgarden)** plugin
-  - Various personalized Discord bots
+  - Various personalized **[Discord](https://discord.com/)** bots
 - 🧠 Interests include:
   - Full stack development
   - Automation for websites and games
