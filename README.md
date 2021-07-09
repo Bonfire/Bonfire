@@ -23,7 +23,7 @@
   - Full stack development
   - Automation for websites and games
   - Web application security
-- 📫 Reach me on **Discord** at **Bon#7654**
+- 📫 Quickest way to reach me: **Discord** at **Bon#7654**
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
