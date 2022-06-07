@@ -23,7 +23,7 @@
   - Full stack development
   - Automation for websites and games
   - Web application security
-- 🖼️ Current avatar is from the artist [Macroblank](https://macroblank.bandcamp.com/music), originally derived from a piece by [Javier Marín](https://acityamonth.com/two-brothers-singular-visions-the-artists-marin/)
+- 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me: **Discord** @ `Bon#7654`
 
 <p>
