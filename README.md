@@ -16,7 +16,7 @@
   - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
   - Community Manager for **[Arcade.tf](https://arcade.tf/)**
   - Creator of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
-  - Author of various OSRS botting scripts for **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)** and RSPeer
+  - Author of various OSRS botting scripts for **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)**
   - OpenOSRS **[plugins](https://github.com/Bonfire/bon-plugins)**
   - Various personalized **[Discord](https://discord.com/)** bots
 - 🧠 Interests include:
