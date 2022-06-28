@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about **C#**, **ASP.NET**, and **full-stack development**
+- 🌱 I’m currently learning about **C#**, **TypeScript**, and **full-stack development**
 - ⚡ Current and past projects:
   - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
   - Community Manager for **[Arcade.tf](https://arcade.tf/)**
