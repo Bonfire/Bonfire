@@ -119,57 +119,40 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
     <tr>
-      <td>
-      <img src="./img/csharp.svg" width="48" height="48" />
-      <br>C#
+      <td align="center" width="96">
+        <img src="./img/csharp.svg" width="48" height="48" />
+        <br>
+        C#
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/dotnet.svg" width="48" height="48" />
-      <br>.NET (Framework & Core)
+      <td align="center" width="96">
+        <img src="./img/dotnet.svg" width="48" height="48" />
+        <br>
+        .NET
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/typescript.svg" width="48" height="48" />
-      <br>TypeScript
+      <td align="center" width="96">
+        <img src="./img/typescript.svg" width="48" height="48" />
+        <br>
+        TypeScript
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/typescript.svg" width="48" height="48" />
-      <br>TypeScript
+      <td align="center" width="96">
+        <img src="./img/javascript.svg" width="48" height="48" />
+        <br>
+        JavaScript
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/javascript.svg" width="48" height="48" />
-      <br>JavaScript
+      <td align="center" width="96">
+        <img src="./img/mssql.svg" width="48" height="48" />
+        <br>
+        MSSQL
       </td>
-    </tr> 
-    <tr>
-      <td>
-      <img src="./img/javascript.svg" width="48" height="48" />
-      <br>JavaScript
+      <td align="center" width="96">
+        <img src="./img/jquery.svg" width="48" height="48" />
+        <br>
+        jQuery
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/mssql.svg" width="48" height="48" />
-      <br>MSSQL
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/jquery.svg" width="48" height="48" />
-      <br>jQuery
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/bootstrap.svg" width="48" height="48" />
-      <br>Bootstrap
+      <td align="center" width="96">
+        <img src="./img/bootstrap.svg" width="48" height="48" />
+        <br>
+        Bootstrap
       </td>
     </tr> 
   </tbody>
@@ -179,45 +162,40 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
     <tr>
-      <td>
-      <img src="./img/java.svg" width="48" height="48" />
-      <br>Java
+      <td align="center" width="96">
+        <img src="./img/java.svg" width="48" height="48" />
+        <br>
+        Java
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/react.svg" width="48" height="48" />
-      <br>React
+      <td align="center" width="96">
+        <img src="./img/react.svg" width="48" height="48" />
+        <br>
+        React
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/nextjs.svg" width="48" height="48" />
-      <br>Next.js
+      <td align="center" width="96">
+        <img src="./img/nextjs.svg" width="48" height="48" />
+        <br>
+        Next.js
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/nestjs.svg" width="48" height="48" />
-      <br>Nest.js
+      <td align="center" width="96">
+        <img src="./img/nestjs.svg" width="48" height="48" />
+        <br>
+        Nest.js
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/docker.svg" width="48" height="48" />
-      <br>Docker
+      <td align="center" width="96">
+        <img src="./img/docker.svg" width="48" height="48" />
+        <br>
+        Docker
       </td>
-    </tr>
-    <tr>
-      <td>
-      <img src="./img/discordjs.svg" width="48" height="48" />
-      <br>Discord.js
+      <td align="center" width="96">
+        <img src="./img/discordjs.svg" width="48" height="48" />
+        <br>
+        Discord.js
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td align="center" width="96">
       <img src="./img/chakraui.svg" width="48" height="48" />
-      <br>Chakra UI
+      <br>
+        Chakra UI
       </td>
     </tr>
   </tbody>
