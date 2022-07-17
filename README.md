@@ -1,33 +1,107 @@
-### Hey! Welcome to my profile 👋
+### <p align="center">About Me</p>
+---
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://avatars.githubusercontent.com/u/5704760?v=4"/>
 
-- 🌱 I’m currently learning about **C#**, **TypeScript**, and **full-stack development**
-- ⚡ Current and past projects:
-  - Developer and Community Moderator for **[TF2Autobot](https://github.com/TF2Autobot/tf2autobot)**
-  - Community Manager for **[Arcade.tf](https://arcade.tf/)**
-  - Creator of projects like **[TF2Autobot Config](https://github.com/Bonfire/tf2autobot-config)**, **[bptf-bot-utilities](https://github.com/Bonfire/bptf-bot-utilities)**, and **[bptf-misc-utils](https://github.com/Bonfire/bptf-misc-utils)**
-  - Author of various OSRS botting scripts for **[DreamBot](https://sdn.dreambot.org/scripts?author=184985)**
-  - OpenOSRS **[plugins](https://github.com/Bonfire/bon-plugins)**
-  - Various personalized **[Discord](https://discord.com/)** bots
-- 🧠 Interests include:
-  - Full stack development
+Hey! Welcome to my profile! 👋
+- 🏢 I'm currently working as a **Full-Stack .NET Developer**
+- 🌱 I’m currently learning about...
+  - C#
+  - TypeScript
+  - React / Next.js
+  - Nest.js
+  - Systems Design & Architecture
+- 🧠 My interests include...
+  - Full-stack development
   - Automation for websites and games
   - Web application security
+  - Discord bots
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
-- 📫 Quickest way to reach me: **Discord** @ `Bon#7654`
+- 📫 Quickest way to reach me is on Discord @ `Bon#7654`
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bonfire&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonfire&layout=compact&langs_count=6" alt="Most used languages" />
-</p>
+### <p align="center">Current and Past Projects</p>
+---
+#### <p align="center">GitHub Projects</p>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🛠 Project</b></td>
+      <td><b>📜 Role</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/TF2Autobot/tf2autobot"><b>TF2Autobot</b></a></td>
+      <td>Developer and Community Moderator</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TF2Autobot/tf2autobot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TF2Autobot/tf2autobot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bonfire/tf2autobot-config"><b>TF2Autobot Config</b></a></td>
+      <td>Developer</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/tf2autobot-config?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bonfire/tf2autobot-config?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bonfire/bptf-bot-utilities"><b>bptf-bot-utilities</b></a></td>
+      <td>Developer</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/bptf-bot-utilities?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bonfire/bptf-bot-utilities?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bonfire/bptf-misc-utils"><b>bptf-misc-utilities</b></a></td>
+      <td>Developer</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/bptf-misc-utils?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bonfire/bptf-misc-utils?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bonfire/bon-plugins"><b>bon-plugins</b></a></td>
+      <td>Developer</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/bon-plugins?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bonfire/bon-plugins?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
+#### <p align="center">Other Projects</p>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🛠 Project</b></td>
+      <td><b>🤔 Description</b></td>
+      <td><b>📜 Role</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://arcade.tf/"><b>Arcade.tf</b></a></td>
+      <td>Fully automated TF2 item trading site</td>
+      <td>Community Manager</td>
+    </tr>
+    <tr>
+      <td><a href="https://sdn.dreambot.org/scripts?author=184985"><b>DreamBot</b></a></td>
+      <td>Automation for OldSchool RuneScape™️</td>
+      <td>Script Author</td>
+    </tr>
+  </tbody>
+</table>
+
+### <p align="center">Stats</p>
+---
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
