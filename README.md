@@ -75,7 +75,7 @@ Hey! Welcome to my profile! 👋
       <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bonfire/bon-plugins?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Bonfire/bon-plugins"><b>Lost-Delayed-TBL-Framework</b></a></td>
+      <td align="center"><a href="https://github.com/Bonfire/Lost-Delayed-TBL-Framework"><b>Lost-Delayed-TBL-Framework</b></a></td>
       <td align="center">Java</td>
       <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/Lost-Delayed-TBL-Framework?style=flat-square&labelColor=343b41"/></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Bonfire/Lost-Delayed-TBL-Framework?style=flat-square&labelColor=343b41"/></td>
@@ -83,7 +83,7 @@ Hey! Welcome to my profile! 👋
       <td align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bonfire/Lost-Delayed-TBL-Framework?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Bonfire/bon-plugins"><b>SecurityWhale</b></a></td>
+      <td align="center"><a href="https://github.com/Bonfire/SecurityWhale"><b>SecurityWhale</b></a></td>
       <td align="center">C# & Python</td>
       <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/SecurityWhale?style=flat-square&labelColor=343b41"/></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Bonfire/SecurityWhale?style=flat-square&labelColor=343b41"/></td>
