@@ -100,13 +100,124 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
       </td>
-      <td>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### <p align="center">Tech</p>
+---
+
+#### <p align="center">Work</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+      <img src="./img/csharp.svg" width="48" height="48" />
+      <br>C#
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/dotnet.svg" width="48" height="48" />
+      <br>.NET (Framework & Core)
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/typescript.svg" width="48" height="48" />
+      <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/typescript.svg" width="48" height="48" />
+      <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/javascript.svg" width="48" height="48" />
+      <br>JavaScript
+      </td>
+    </tr> 
+    <tr>
+      <td>
+      <img src="./img/javascript.svg" width="48" height="48" />
+      <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/mssql.svg" width="48" height="48" />
+      <br>MSSQL
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/jquery.svg" width="48" height="48" />
+      <br>jQuery
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/bootstrap.svg" width="48" height="48" />
+      <br>Bootstrap
+      </td>
+    </tr> 
+  </tbody>
+</table>
+
+#### <p align="center">Play</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+      <img src="./img/java.svg" width="48" height="48" />
+      <br>Java
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/react.svg" width="48" height="48" />
+      <br>React
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/nextjs.svg" width="48" height="48" />
+      <br>Next.js
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/nestjs.svg" width="48" height="48" />
+      <br>Nest.js
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/docker.svg" width="48" height="48" />
+      <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/discordjs.svg" width="48" height="48" />
+      <br>Discord.js
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="./img/chakraui.svg" width="48" height="48" />
+      <br>Chakra UI
       </td>
     </tr>
   </tbody>
