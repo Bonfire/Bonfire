@@ -200,3 +200,5 @@ Hey! Welcome to my profile! 👋
     </tr>
   </tbody>
 </table>
+
+<!-- Credits to @LostVirt for the README ideas and images -->
