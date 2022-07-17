@@ -10,7 +10,7 @@ Hey! Welcome to my profile! 👋
   - TypeScript
   - React / Next.js
   - Nest.js
-  - Systems Design & Architecture
+  - Systems design & architecture
 - 🧠 My interests include...
   - Full-stack development
   - Automation for websites and games
