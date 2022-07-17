@@ -1,7 +1,7 @@
 ### <p align="center">About Me</p>
 ---
 
-<img align="right" src="https://avatars.githubusercontent.com/u/5704760?v=4"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/5704760?v=4&s=256"/>
 
 Hey! Welcome to my profile! 👋
 - 🏢 I'm currently working as a **Full-Stack .NET Developer**
