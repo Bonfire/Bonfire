@@ -138,8 +138,7 @@ Hey! Welcome to my profile! 👋
   <tbody>
     <tr>
       <td align="center">
-        <!--START_SECTION:activity-->
-        <!--END_SECTION:activity-->
+        <!--RECENT_ACTIVITY:start-->
       </td>
     </tr>
   </tbody>
