@@ -134,21 +134,13 @@ Hey! Welcome to my profile! 👋
   </tbody>
 </table>
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center">
-        <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 2. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 3. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 4. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 5. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
 <!--RECENT_ACTIVITY:end-->
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ### <p align="center">Tech</p>
 ---
