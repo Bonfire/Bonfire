@@ -136,9 +136,9 @@ Hey! Welcome to my profile! 👋
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
-2. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
-3. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
-4. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
+2. ✌️ Released [Initial](https://github.com/Bonfire/recent-activity/releases/tag/init) in [Bonfire/recent-activity](https://github.com/Bonfire/recent-activity)
+3. ⬆️ Pushed 1 commit(s) to [Bonfire/recent-activity](https://github.com/Bonfire/recent-activity)
+4. 🔱 Forked [Bonfire/recent-activity](https://github.com/Bonfire/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 <!--RECENT_ACTIVITY:end-->
 
