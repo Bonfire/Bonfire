@@ -146,8 +146,8 @@ Hey! Welcome to my profile! 👋
   <tbody>
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">✌️ Released <a href="https://github.com/Bonfire/recent-activity/releases/tag/v2.0.1"><b>Public workflow creation</b></a> in <a href="https://github.com/Bonfire/recent-activity"><b>Bonfire/recent-activity</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/recent-activity"><b>Bonfire/recent-activity</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/recent-activity"><b>Bonfire/recent-activity</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/recent-activity"><b>Bonfire/recent-activity</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
