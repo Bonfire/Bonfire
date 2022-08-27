@@ -68,7 +68,7 @@ Hey! Welcome to my profile! 👋
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Bonfire/recent-activity"><b>recent-activity</b></a></td>
-      <td align="center">JavaScript (GitHub Actions)</td>
+      <td align="center">JavaScript<br>(GitHub Actions)</td>
       <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/Bonfire/recent-activity?style=flat-square&labelColor=343b41"/></td>
       <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Bonfire/recent-activity?style=flat-square&labelColor=343b41"/></td>
       <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/Bonfire/recent-activity?style=flat-square&labelColor=343b41"/></td>
