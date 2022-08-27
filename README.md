@@ -139,7 +139,7 @@ Hey! Welcome to my profile! 👋
 2. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 3. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 4. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
-5. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
+5. ⬆️ Pushed 1 commit(s) to [Bonfire/Bonfire](https://github.com/Bonfire/Bonfire)
 <!--RECENT_ACTIVITY:end-->
 
 ### <p align="center">Tech</p>
