@@ -116,7 +116,7 @@ Hey! Welcome to my profile! 👋
   </tbody>
 </table>
 
-### <p align="center">Stats</p>
+### <p align="center">Stats and Recent Activity</p>
 ---
 
 <table align="center">
@@ -129,6 +129,17 @@ Hey! Welcome to my profile! 👋
       <td align="center">
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
         <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <!--START_SECTION:activity-->
+        <!--END_SECTION:activity-->
       </td>
     </tr>
   </tbody>
