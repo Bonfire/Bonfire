@@ -145,11 +145,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💬 Commented on <a href="https://github.com/ajnart/homarr/pull/376#issuecomment-1230404504"><b>#376</b></a> in <a href="https://github.com/ajnart/homarr"><b>ajnart/homarr</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/ajnart/homarr/pull/376#discussion_r957424785"><b>#376</b></a> in <a href="https://github.com/ajnart/homarr"><b>ajnart/homarr</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/ajnart/homarr/pull/376#discussion_r957416390"><b>#376</b></a> in <a href="https://github.com/ajnart/homarr"><b>ajnart/homarr</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 5 commit(s) to <a href="https://github.com/Bonfire/homarr"><b>Bonfire/homarr</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/recent-activity"><b>Bonfire/recent-activity</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
