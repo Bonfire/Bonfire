@@ -150,11 +150,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💬 Commented on <a href="https://github.com/TF2Autobot/tf2autobot/issues/1377#issuecomment-1278440244"><b>#1377</b></a> in <a href="https://github.com/TF2Autobot/tf2autobot"><b>TF2Autobot/tf2autobot</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/vercel/next.js"><b>vercel/next.js</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/chakra-ui/chakra-ui"><b>chakra-ui/chakra-ui</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/nestjs/nest"><b>nestjs/nest</b></a></td></tr>
-<tr><td align="center">💬 Commented on <a href="https://github.com/ajnart/homarr/pull/376#discussion_r958619813"><b>#376</b></a> in <a href="https://github.com/ajnart/homarr"><b>ajnart/homarr</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
