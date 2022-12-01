@@ -150,11 +150,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💪 Opened PR <a href="https://github.com/Explv/osrs_map_tiles/pull/3"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">🔱 Forked <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a> from <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/TF2Autobot/tf2autobot/issues/1377#issuecomment-1278440244"><b>#1377</b></a> in <a href="https://github.com/TF2Autobot/tf2autobot"><b>TF2Autobot/tf2autobot</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/vercel/next.js"><b>vercel/next.js</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/chakra-ui/chakra-ui"><b>chakra-ui/chakra-ui</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
