@@ -150,11 +150,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⭐ Starred <a href="https://github.com/maxswa/osrs-json-hiscores"><b>maxswa/osrs-json-hiscores</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/pull/3#issuecomment-1334538730"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/pull/3#issuecomment-1334504299"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/pull/3#issuecomment-1333207020"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/bonfire-map.github.io"><b>Bonfire/bonfire-map.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
