@@ -150,11 +150,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/issues/2#issuecomment-1343493874"><b>#2</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/issues/2#issuecomment-1342094968"><b>#2</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/ZeusJunior/node-tf2-backpack"><b>ZeusJunior/node-tf2-backpack</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/maxswa/osrs-json-hiscores"><b>maxswa/osrs-json-hiscores</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/pull/3#issuecomment-1334538730"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/pull/3#issuecomment-1334504299"><b>#3</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
