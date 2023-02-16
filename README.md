@@ -112,6 +112,10 @@ Hey! Welcome to my profile! 👋
   </thead>
   <tbody>
     <tr>
+      <td align="center"><a href="https://discord.gg/9wqhkuFBm6"><b>bonScouter</b></a></td>
+      <td align="center">An all-in-one OSRS player scouter</td>
+      <td align="center">Author</td>
+    <tr>
       <td align="center"><a href="https://posts.tf/"><b>Posts.tf</b></a></td>
       <td align="center">TF2 trade listing site</td>
       <td align="center">Community Manager</td>
