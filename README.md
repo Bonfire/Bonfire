@@ -112,11 +112,6 @@ Hey! Welcome to my profile! 👋
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://arcade.tf/"><b>Arcade.tf</b></a></td>
-      <td align="center">Fully automated TF2 item trading site</td>
-      <td align="center">Community Manager</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://posts.tf/"><b>Posts.tf</b></a></td>
       <td align="center">TF2 trade listing site</td>
       <td align="center">Community Manager</td>
