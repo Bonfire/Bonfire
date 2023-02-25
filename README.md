@@ -149,11 +149,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 668 commit(s) to <a href="https://github.com/Bonfire/homarr"><b>Bonfire/homarr</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1000 commit(s) to <a href="https://github.com/Bonfire/homarr"><b>Bonfire/homarr</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/issues/2#issuecomment-1343493874"><b>#2</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">💬 Commented on <a href="https://github.com/Explv/osrs_map_tiles/issues/2#issuecomment-1342094968"><b>#2</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/ZeusJunior/node-tf2-backpack"><b>ZeusJunior/node-tf2-backpack</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
