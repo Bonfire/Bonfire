@@ -149,11 +149,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💪 Opened PR <a href="https://github.com/Explv/osrs_map_tiles/pull/4"><b>#4</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 668 commit(s) to <a href="https://github.com/Bonfire/homarr"><b>Bonfire/homarr</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1000 commit(s) to <a href="https://github.com/Bonfire/homarr"><b>Bonfire/homarr</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
