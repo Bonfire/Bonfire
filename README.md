@@ -149,10 +149,10 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">💪 Opened PR <a href="https://github.com/maclof/maclof.github.io/pull/3"><b>#3</b></a> in <a href="https://github.com/maclof/maclof.github.io"><b>maclof/maclof.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/Explv/Explv.github.io/pull/28"><b>#28</b></a> in <a href="https://github.com/Explv/Explv.github.io"><b>Explv/Explv.github.io</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
