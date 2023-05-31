@@ -149,11 +149,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a> from <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 2 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/maclof/maclof.github.io/pull/3"><b>#3</b></a> in <a href="https://github.com/maclof/maclof.github.io"><b>maclof/maclof.github.io</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/maclof/maclof.github.io/pull/4"><b>#4</b></a> in <a href="https://github.com/maclof/maclof.github.io"><b>maclof/maclof.github.io</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">💪 Opened PR <a href="https://github.com/maclof/osrs_map_tiles/pull/2"><b>#2</b></a> in <a href="https://github.com/maclof/osrs_map_tiles"><b>maclof/osrs_map_tiles</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
