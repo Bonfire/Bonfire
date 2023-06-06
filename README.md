@@ -17,7 +17,7 @@ Hey! Welcome to my profile! 👋
   - Web application security
   - Discord bots
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
-- 📫 Quickest way to reach me is on Discord @ `Bon#7654`
+- 📫 Quickest way to reach me is on Discord @ `bon.fire`
 
 ### <p align="center">Current and Past Projects</p>
 ---
