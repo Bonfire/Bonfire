@@ -1,7 +1,7 @@
 ### <p align="center">About Me</p>
 ---
 
-<img align="right" src="/img/bimby.gif"/>
+<img align="right" src="/img/cat.gif"/>
 
 Hey! Welcome to my profile! 👋
 - 🏢 I'm currently working as a **Full-Stack .NET Developer**
