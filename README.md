@@ -1,8 +1,6 @@
 ### <p align="center">About Me</p>
 ---
 
-<img align="right" src="/img/cat.gif"/>
-
 Hey! Welcome to my profile! 👋
 - 🏢 I'm currently working as a **Full-Stack .NET Developer**
 - 🌱 I’m currently learning about...
@@ -11,11 +9,11 @@ Hey! Welcome to my profile! 👋
   - React / Next.js
   - Nest.js
   - Systems design & architecture
-- 🧠 My interests include...
+- 🧠 My current interests include...
   - Full-stack development
   - Automation for websites and games
   - Web application security
-  - Discord bots
+  - Building systems that scale
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me is on Discord @ `bon.fire`
 
