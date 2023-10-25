@@ -1,6 +1,3 @@
-### <p align="center">About Me</p>
----
-
 Hey! Welcome to my profile! 👋
 - 🏢 I'm currently working as a **Full-Stack .NET Developer**
 - 🌱 I’m currently learning about...
@@ -19,7 +16,6 @@ Hey! Welcome to my profile! 👋
 
 ### <p align="center">Stats and Recent Activity</p>
 ---
-
 <table align="center">
   <tbody>
     <tr>
@@ -49,7 +45,6 @@ Hey! Welcome to my profile! 👋
 
 ### <p align="center">Tech</p>
 ---
-
 #### <p align="center">Work</p>
 <table align="center">
   <tbody>
