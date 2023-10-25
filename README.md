@@ -14,34 +14,6 @@ Hey! Welcome to my profile! 👋
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me is on Discord @ `bon.fire`
 ---
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="center">
-  <tbody>
-  <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
-<tr><td align="center">❗️ Opened issue <a href="https://github.com/Explv/osrs_map_tiles/issues/6"><b>#6</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
-  <!--RECENT_ACTIVITY:end-->
-  </tbody>
-</table>
-
----
 <p align="center">Work</p>
 <table align="center">
   <tbody>
@@ -125,6 +97,34 @@ Hey! Welcome to my profile! 👋
         Chakra UI
       </td>
     </tr>
+  </tbody>
+</table>
+
+---
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+        <img src="https://raw.githubusercontent.com/Bonfire/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <tbody>
+  <!--RECENT_ACTIVITY:start-->
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 3 commit(s) to <a href="https://github.com/Bonfire/osrs_map_tiles"><b>Bonfire/osrs_map_tiles</b></a></td></tr>
+<tr><td align="center">❗️ Opened issue <a href="https://github.com/Explv/osrs_map_tiles/issues/6"><b>#6</b></a> in <a href="https://github.com/Explv/osrs_map_tiles"><b>Explv/osrs_map_tiles</b></a></td></tr>
+  <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
 
