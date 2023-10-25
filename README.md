@@ -13,8 +13,6 @@ Hey! Welcome to my profile! 👋
   - Building systems that scale
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me is on Discord @ `bon.fire`
-
-### <p align="center">Stats and Recent Activity</p>
 ---
 <table align="center">
   <tbody>
@@ -43,9 +41,8 @@ Hey! Welcome to my profile! 👋
   </tbody>
 </table>
 
-### <p align="center">Tech</p>
 ---
-#### <p align="center">Work</p>
+<p align="center">Work</p>
 <table align="center">
   <tbody>
     <tr>
@@ -88,7 +85,7 @@ Hey! Welcome to my profile! 👋
   </tbody>
 </table>
 
-#### <p align="center">Play</p>
+<p align="center">Play</p>
 <table align="center">
   <tbody>
     <tr>
