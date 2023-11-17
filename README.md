@@ -123,7 +123,6 @@ Hey! Welcome to my profile! 👋
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
