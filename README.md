@@ -1,5 +1,5 @@
 Hey! Welcome to my profile! 👋
-- 🏢 I'm currently working as a **Full-Stack .NET Developer**
+- 🏢 I'm currently working as a **Full-Stack Developer**
 - 🌱 I’m currently learning about...
   - C#
   - TypeScript
