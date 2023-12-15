@@ -13,6 +13,7 @@ Hey! Welcome to my profile! 👋
   - Building systems that scale
 - 🖼️ Current avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me is on Discord @ `bon.fire`
+
 ---
 <p align="center">Work</p>
 <table align="center">
@@ -99,6 +100,10 @@ Hey! Welcome to my profile! 👋
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?color=0dbc79&url=https://lastfm-last-played.biancarosa.com.br/erliksu/latest-song?format=shields.io">
+</p>
 
 ---
 <table align="center">
