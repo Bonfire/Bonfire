@@ -126,7 +126,6 @@ Hey! Welcome to my profile! 👋
   <!--RECENT_ACTIVITY:start-->
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
-<tr><td align="center">⭐ Starred <a href="https://github.com/play-dl/play-dl"><b>play-dl/play-dl</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
