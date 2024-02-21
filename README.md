@@ -124,11 +124,11 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">⬆️ Pushed 8 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
-<tr><td align="center">💪 Opened PR <a href="https://github.com/nestjs/docs.nestjs.com/pull/2967"><b>#2967</b></a> in <a href="https://github.com/nestjs/docs.nestjs.com"><b>nestjs/docs.nestjs.com</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/docs.nestjs.com"><b>Bonfire/docs.nestjs.com</b></a></td></tr>
-<tr><td align="center">🔱 Forked <a href="https://github.com/Bonfire/docs.nestjs.com"><b>Bonfire/docs.nestjs.com</b></a> from <a href="https://github.com/nestjs/docs.nestjs.com"><b>nestjs/docs.nestjs.com</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/docs.nestjs.com"><b>Bonfire/docs.nestjs.com</b></a></td></tr>
+<tr><td align="center">❌ Closed PR <a href="https://github.com/Explv/Explv.github.io/pull/28"><b>#28</b></a> in <a href="https://github.com/Explv/Explv.github.io"><b>Explv/Explv.github.io</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
+<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/osrs-map"><b>Bonfire/osrs-map</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
