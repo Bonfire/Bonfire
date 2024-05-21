@@ -128,7 +128,6 @@ Hey! Welcome to my profile! 👋
 <tr><td align="center">❗️ Opened issue <a href="https://github.com/patrickkfkan/bandcamp-fetch/issues/7"><b>#7</b></a> in <a href="https://github.com/patrickkfkan/bandcamp-fetch"><b>patrickkfkan/bandcamp-fetch</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/patrickkfkan/bandcamp-fetch"><b>patrickkfkan/bandcamp-fetch</b></a></td></tr>
 <tr><td align="center">⭐ Starred <a href="https://github.com/C1rdec/Poe-Lurker"><b>C1rdec/Poe-Lurker</b></a></td></tr>
-<tr><td align="center">❌ Closed PR <a href="https://github.com/Explv/Explv.github.io/pull/28"><b>#28</b></a> in <a href="https://github.com/Explv/Explv.github.io"><b>Explv/Explv.github.io</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
