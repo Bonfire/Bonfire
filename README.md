@@ -126,7 +126,6 @@ Hey! Welcome to my profile! 👋
 <tr><td align="center">🔱 Forked <a href="https://github.com/Bonfire/markov-discord"><b>Bonfire/markov-discord</b></a> from <a href="https://github.com/claabs/markov-discord"><b>claabs/markov-discord</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Introduction-to-C-COP3223C"><b>Bonfire/Introduction-to-C-COP3223C</b></a></td></tr>
 <tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Introduction-to-C-COP3223C"><b>Bonfire/Introduction-to-C-COP3223C</b></a></td></tr>
-<tr><td align="center">⬆️ Pushed 1 commit(s) to <a href="https://github.com/Bonfire/Bonfire"><b>Bonfire/Bonfire</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
