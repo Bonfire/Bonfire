@@ -123,7 +123,6 @@ Hey! Welcome to my profile! 👋
 <table align="center">
   <tbody>
   <!--RECENT_ACTIVITY:start-->
-<tr><td align="center">🔱 Forked <a href="https://github.com/Bonfire/markov-discord"><b>Bonfire/markov-discord</b></a> from <a href="https://github.com/claabs/markov-discord"><b>claabs/markov-discord</b></a></td></tr>
   <!--RECENT_ACTIVITY:end-->
   </tbody>
 </table>
