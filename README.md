@@ -1,15 +1,14 @@
 Hey! Welcome to my profile! 👋
 - 🏢 I'm currently working as a **Full-Stack Developer**
 - 🌱 I’m learning more about...
-  - TypeScript
-  - React / Next.js
-  - Nest.js
-  - Site Reliability Engineering (SRE)
+  - Ansible
+  - Microservices
+  - Distributed Systems
 - 🧠 My interests include...
   - Full-stack development
   - Automation for websites and games
   - Web application security
-  - Making fun projects
+  - Learning new things by creating fun projects
 - 🖼️ My avatar is from the artist [Haircuts for Men](https://haircutsformen.bandcamp.com/)
 - 📫 Quickest way to reach me is on Discord @ `bon.fire`
 
